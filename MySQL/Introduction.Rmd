@@ -1,0 +1,23 @@
+---
+title: "R and MySQL"
+author: "Clinton Moshe"
+date: "9/20/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## libraries
+
+```{r libraries}
+print('welcome to R and databases')
+```
+
+## test
+
+```{r test}
+
+```
+
